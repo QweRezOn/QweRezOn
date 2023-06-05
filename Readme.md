@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a Python developer from Russia, passionate abo
 - Email: xtoyougg@gmail.com
 
 ## 📈 GitHub Stats
-[![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)](https://github.com/QweRezOn)
+[![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=QweRezOn&show_icons=true&theme=dark)](https://github.com/QweRezOn)
 
 ## 🌐 Languages and Tools
 - Python
