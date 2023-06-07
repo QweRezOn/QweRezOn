@@ -1,9 +1,9 @@
 # Hi there! 👋
 
-Welcome to my GitHub profile! I'm a Python developer from Russia, passionate about translation into Russian. 
+Welcome to my GitHub profile! I'm a Python developer from Russia, passionate about translation into Russian.
 
 ## 🔭 Currently Working On
-- [Project 1](https://github.com/Korepi/Korepi): Helping with translation
+- [Project 1](https://github.com/Korepi/Korepi): Help with translation
 - [Project 2](https://github.com/Eternal1of): Other projects
 
 ## 🌱 Currently Learning
@@ -18,11 +18,12 @@ Welcome to my GitHub profile! I'm a Python developer from Russia, passionate abo
 - Translation into Russian
 
 ## 📫 How to Reach Me
-- Discord: [Your Discord Username](https://discord.com/users/607908198191726594)
 - Email: xtoyougg@gmail.com
+- Discord: [QweRez](https://discord.com/users/607908198191726594)
+- [![Discord Presence](https://lanyard.cnrad.dev/api/607908198191726594)](https://discord.com/users/607908198191726594)
 
 ## 📈 GitHub Stats
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=QweRezOn&show_icons=true&theme=dark)
+[![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=QweRezOn&show_icons=true&theme=dark)](https://github.com/QweRezOn)
 
 ## 🌐 Languages and Tools
 - Python
