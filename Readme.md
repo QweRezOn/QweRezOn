@@ -1,6 +1,7 @@
 # Greeting! 👋
 
 Welcome to my GitHub profile! I am a developer from Russia with a passion for translating into the Russian language.
+### Total Visitor is ![Visitor Count](https://profile-counter.glitch.me/qwerezon/count.svg)!
 
 ## 👨‍💻 About Me
 I am an inspired developer with a deep interest in translation and its adaptation into the Russian language. My goal is to contribute to open-source projects aimed at improving language-related tools and technologies.
@@ -36,7 +37,7 @@ You can get in touch with me through:
 - [![Discord Presence](https://lanyard.cnrad.dev/api/607908198191726594)](https://discord.com/users/607908198191726594)
 
 ## 📊 GitHub Statistics
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=QweRezOn&show_icons=true&theme=dark)
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=qwerezon&show_icons=true&theme=tokyonight)
 
 ## 🎯 Future Goals
 Here are my aspirations for the future:
